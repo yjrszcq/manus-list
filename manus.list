@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,monica.cn
 
 # CDN
 DOMAIN-SUFFIX,manuscdn.com
+DOMAIN,d1oupeiobkpcny.cloudfront.net
 
 # Cloud Computer & Sandbox
 DOMAIN-SUFFIX,manus.computer
