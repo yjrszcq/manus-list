@@ -1,7 +1,3 @@
-# NAME: Manus
-# DESCRIPTION: Manus, Cue, Monica and Butterfly Effect services
-# UPDATED: 2026-11-25
-
 payload:
   # Manus
   - DOMAIN-SUFFIX,manus.im
@@ -16,6 +12,7 @@ payload:
 
   # CDN
   - DOMAIN-SUFFIX,manuscdn.com
+  - DOMAIN,d1oupeiobkpcny.cloudfront.net
 
   # Cloud Computer & Sandbox
   - DOMAIN-SUFFIX,manus.computer
