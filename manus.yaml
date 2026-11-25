@@ -27,6 +27,9 @@ payload:
   # Shared Infrastructure
   - DOMAIN-SUFFIX,butterfly-effect.dev
 
+  # Fingerprint
+  - DOMAIN,use1-turn.fpjs.io
+
   # App Download
   - DOMAIN,manus.go.link
   - DOMAIN,cue-app.go.link
