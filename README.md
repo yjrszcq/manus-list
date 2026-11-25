@@ -7,7 +7,7 @@
 > 以下两种仅为不同的表示方式，作用相同，二选一即可
 
 ```yaml
-manus: {type: http, format: yaml, behavior: classical, url: "https://raw.githubusercontent.com/yjrszcq/Manus-List/refs/heads/main/manus.yaml", path: ./ruleset/manus.yaml, interval: 86400}
+manus: {type: http, format: yaml, behavior: classical, url: "https://raw.githubusercontent.com/yjrszcq/manus-list/refs/heads/main/manus.yaml", path: ./ruleset/manus.yaml, interval: 86400}
 ```
 
 ```yaml
@@ -15,7 +15,7 @@ manus:
   type: http
   format: yaml
   behavior: classical
-  url: "https://raw.githubusercontent.com/yjrszcq/Manus-List/refs/heads/main/manus.yaml"
+  url: "https://raw.githubusercontent.com/yjrszcq/manus-list/refs/heads/main/manus.yaml"
   path: ./ruleset/manus.yaml
   interval: 86400
 ```
