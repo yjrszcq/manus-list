@@ -1,0 +1,35 @@
+# NAME: Manus
+# DESCRIPTION: Manus, Cue, Monica and Butterfly Effect services
+# UPDATED: 2026-11-25
+
+payload:
+  # Manus
+  - DOMAIN-SUFFIX,manus.im
+  - DOMAIN-SUFFIX,manus.ai
+
+  # Cue
+  - DOMAIN-SUFFIX,cue.im
+
+  # Monica
+  - DOMAIN-SUFFIX,monica.im
+  - DOMAIN-SUFFIX,monica.cn
+
+  # CDN
+  - DOMAIN-SUFFIX,manuscdn.com
+
+  # Cloud Computer & Sandbox
+  - DOMAIN-SUFFIX,manus.computer
+
+  # Web & Game Hosting
+  - DOMAIN-SUFFIX,manus.space
+  - DOMAIN-SUFFIX,manus.game
+
+  # Analytics
+  - DOMAIN-SUFFIX,manus-analytics.com
+
+  # Shared Infrastructure
+  - DOMAIN-SUFFIX,butterfly-effect.dev
+
+  # App Download
+  - DOMAIN,manus.go.link
+  - DOMAIN,cue-app.go.link
